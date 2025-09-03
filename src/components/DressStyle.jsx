@@ -1,7 +1,7 @@
 import React from "react";
 import LeftImg from "../assets/left.png";
 import RightImg from "../assets/right.png";
-import TopMiddleImg from "../assets/top.png";
+import TopMiddleImg from "../assets/Top.png";
 import BottomMiddleImg from "../assets/bottom.png";
 import { FaArrowRight } from "react-icons/fa";
 
