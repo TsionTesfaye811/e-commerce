@@ -1,6 +1,5 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import Navbar from "../components/Navbar";
 import Subscribe from "../components/Subscribe";
 import Footer from "../components/Footer";
 import { FaInstagram, FaYoutube, FaTiktok } from "react-icons/fa";

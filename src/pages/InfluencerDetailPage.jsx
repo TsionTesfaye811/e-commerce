@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import Navbar from "../components/Navbar";
 import Subscribe from "../components/Subscribe";
 import Footer from "../components/Footer";
 import { FaYoutube, FaInstagram, FaTiktok, FaStar } from "react-icons/fa";
@@ -49,7 +48,6 @@ const InfluencerDetailPage = () => {
 
   return (
     <>
-      <Navbar />
       <div className="container mx-auto px-4 py-12 grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
         {/* Left: Influencer Image */}
         <div className="flex justify-center">
