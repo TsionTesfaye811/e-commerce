@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import signinImg from "../assets/signup.png"; // Only used on desktop
+import signinImg from "../assets/Signup.png"; // Only used on desktop
 import googleLogo from "../assets/google.png";
 import emailLogo from "../assets/gmail.png";
 
