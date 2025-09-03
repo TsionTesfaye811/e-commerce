@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import forgotImg from "../assets/signup.png"; // reuse signup/signin image
+import forgotImg from "../assets/Signup.png"; // reuse signup/signin image
 
 const EnterNewPassword = () => {
   const navigate = useNavigate();
