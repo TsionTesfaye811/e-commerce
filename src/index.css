@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Custom font class */
+.font-volkhov {
+  font-family: 'Volkhov', serif;
+}
+body {
+  overflow-x: hidden;
+}
